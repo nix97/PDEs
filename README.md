@@ -28,7 +28,7 @@ This app build in Matlab 2016a.
   ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ##
 <br>
 This app build in PyCharm 2022 CE. <br>
-Use lib:
+Use lib:<br>
 1. pymep as math parser to input math equation at runtime.<br>
 2. plotly as 3D(Surface) graph to display on browser.
 
