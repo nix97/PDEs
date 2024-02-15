@@ -14,7 +14,7 @@ This app build in Visual Studio 2017 CE
     ## $\frac{\partial^2 U(x,y)}{\partial x^2}+\frac{\partial^2 U(x,y)}{\partial y^2}=F(x,y)$ ##
   <br><br>
 
-  ## Wave Equation
+## Wave Equation
 This app build in Matlab 2016a
 **Wave equation using Finite-Difference method.**
   ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ##
