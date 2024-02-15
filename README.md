@@ -21,7 +21,7 @@ Use libraries :
 **Wave equation using Finite-Difference method.**
   ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ## 
 <br> 
-This app build in Matlab 2016a.
+This app build in Matlab 2016a(GUI version).
 
 ## 3. Wave Equation py
 **Wave equation using Finite-Difference method.**
