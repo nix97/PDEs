@@ -94,14 +94,14 @@ while again[0] in ("y", "Y"):
         title='Graphic Wave Equation',
         autosize=True,
         scene=dict(
-            xaxis_title='X',
-            yaxis_title='T',
-            zaxis_title='U',
+            xaxis_title='X(x-axis)',
+            yaxis_title='T(y-axis)',
+            zaxis_title='U(z-axis)',
         ),
     )
 
-    print("Wait the moment to show graph on browser...")
+    print("\nWait the moment to show graph on browser...")
     fig.show()
 
-    again = input("Another one (Y/N)?")
+    again = input("\nAnother one (Y/N)?")
 
