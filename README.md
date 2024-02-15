@@ -1,5 +1,4 @@
-## PDEs Solver(Partial Differential Equations Solver)
-This app build in Visual Studio 2017 CE
+## 1. PDEs Solver(Partial Differential Equations Solver)
 ### The coverage of these problems is:
 - **Wave equation using Finite-Difference method.**
     ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ##
@@ -12,16 +11,22 @@ This app build in Visual Studio 2017 CE
 
 - **Poisson's equation using Finite-Difference method.**
     ## $\frac{\partial^2 U(x,y)}{\partial x^2}+\frac{\partial^2 U(x,y)}{\partial y^2}=F(x,y)$ ##
-  <br><br>
+This app build in Visual Studio 2017 CE.<br>
+Use libraries :
+1. mXparser(free version/NON-COMMERCIAL USE) by Mariusz Gromada as math expression parser.
+2. ProEssentials Gigasoft(free version/evaluating) for Viewing graph 3D.
+<br><br>
 
-## Wave Equation
+## 2. Wave Equation
+**Wave equation using Finite-Difference method.**
+  ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ## 
+<br> 
 This app build in Matlab 2016a.
-**Wave equation using Finite-Difference method.**
-  ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ##
 
-## Wave Equation py
-This app build in PyCharm 2022 CE.
+## 3. Wave Equation py
 **Wave equation using Finite-Difference method.**
   ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ##
+<br>
+This app build in PyCharm 2022 CE.
 
 
