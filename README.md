@@ -1,3 +1,8 @@
+![License](https://img.shields.io/github/license/nix97/pdes)
+![Issues](https://img.shields.io/github/issues/nix97/pdes)
+![Stars](https://img.shields.io/github/stars/nix97/pdes)
+![PDEs](https://img.shields.io/badge/PDEs-Explicit%20FDM-green)
+
 ## 1. PDEs Solver(Partial Differential Equations Solver)
 ### The coverage of these problems is:
 - **Wave equation using Finite-Difference method.**
