@@ -1,4 +1,4 @@
-#PDEs
+# PDEs
 
 ![License](https://img.shields.io/github/license/nix97/pdes)
 ![Issues](https://img.shields.io/github/issues/nix97/pdes)
