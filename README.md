@@ -4,6 +4,8 @@
 ![Issues](https://img.shields.io/github/issues/nix97/pdes)
 ![Stars](https://img.shields.io/github/stars/nix97/pdes)
 ![PDEs](https://img.shields.io/badge/PDEs-Explicit%20FDM-green)
+![Language](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white)
+![language](https://img.shields.io/badge/language-Python-blue.svg)
 
 ## 1. PDEs Solver(Partial Differential Equations Solver)
 ### The coverage of these problems is:
