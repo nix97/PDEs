@@ -25,7 +25,9 @@
 This app build in Visual Studio 2017 CE.<br>
 Use libraries :
 1. mXparser(free version/NON-COMMERCIAL USE) by Mariusz Gromada as math expression parser.
-2. ProEssentials Gigasoft(free version/evaluating) for Viewing graph 3D.
+2. ProEssentials Gigasoft(free version/evaluating) for Viewing graph 3D.<br>
+Download sourcecode and app on:
+https://github.com/nix97/PDEs/releases/download/PDE/PDEs.Solver.zip
 <br><br>
 
 ## 2. Wave Equation
