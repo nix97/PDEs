@@ -34,7 +34,9 @@ https://github.com/nix97/PDEs/releases/download/PDE/PDEs.Solver.zip
 **Wave equation using Finite-Difference method.**
   ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ## 
 <br> 
-This app build in Matlab 2016a(GUI version).
+This app build in Matlab 2016a(GUI version).<br>
+Download sourcecode on:<br>
+https://github.com/nix97/PDEs/releases/download/PDE2/Wave.Equation.zip<br><br>
 
 ## 3. Wave Equation py
 **Wave equation using Finite-Difference method.**
