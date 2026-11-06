@@ -12,7 +12,7 @@
 ## 1. PDEs Solver(Partial Differential Equations Solver)
 ### The coverage of these problems is:
 - **Wave equation using Finite-Difference method.**
-    ## $ \frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2} $ ##
+    ## $\frac{\partial^2 U(x,t)}{\partial t^2}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ##
 
 - **Heat equation using Forward-Difference method.**
     ## $\frac{\partial U(x,t)}{\partial t}=c^2\frac{\partial^2 U(x,t)}{\partial x^2}$ ##
